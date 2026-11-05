@@ -1,0 +1,31 @@
+name: "🛠️ Implementation Help & Integration Support"
+description: "Having trouble integrating our patch, kit, or repo into your own software? Paste your stack trace or setup here and we will help you get unstuck."
+title: "[Implementation Help]: "
+labels: ["implementation-support", "community-help"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Welcome!** If you cloned or downloaded this repository and hit a wall integrating it into your own codebase or production environment, tell us what is happening below. Our engineering team actively monitors these issues to help you get unstuck (and can also jump in for a hands-on sprint if your team is on a deadline).
+  - type: input
+    id: environment
+    attributes:
+      label: "Your Stack / Framework & OS"
+      placeholder: "e.g., Python 3.12, vLLM 0.11 / LangChain / Kubernetes 1.31 / Ubuntu 24.04"
+    validations:
+      required: true
+  - type: textarea
+    id: blocker
+    attributes:
+      label: "What are you trying to implement, and what error or behavior are you seeing?"
+      placeholder: "Paste your error traceback, config snippet, or architectural question here..."
+    validations:
+      required: true
+  - type: dropdown
+    id: urgency
+    attributes:
+      label: "Timeline / Need Hands-On Engineering Help?"
+      options:
+        - "Community Support (Public reply / repo update is great)"
+        - "Production Blocker — Interested in a 48-Hour Root-Cause Fix ($450)"
+        - "Team Backlog — Interested in a 5-Issue Sprint ($1,500) or Custom Integration ($3,500+)"
