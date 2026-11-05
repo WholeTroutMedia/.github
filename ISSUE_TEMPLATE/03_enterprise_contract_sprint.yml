@@ -1,0 +1,22 @@
+name: "🚀 Enterprise Sprint, Custom Build or Retainer Inquiry"
+description: "Need our Principal Engineering team to build a custom integration, clear a production backlog, or architect your system?"
+title: "[Engineering Inquiry]: "
+labels: ["enterprise-inquiry", "priority"]
+body:
+  - type: dropdown
+    id: tier
+    attributes:
+      label: "Which engagement model fits your team?"
+      options:
+        - "Tier 1: 48-Hour Root-Cause Bug Fix ($450 flat)"
+        - "Tier 2: 5-Issue Production Backlog Sprint ($1,500)"
+        - "Tier 3: Custom MCP Server / Agentic Pipeline Integration ($3,500)"
+        - "Tier 4: Fractional Principal Maintainer Retainer ($4,500/mo)"
+        - "Tier 5/6: 10-Domain Architecture Sprint or Full Enterprise Mesh ($7,500–$25,000)"
+  - type: textarea
+    id: details
+    attributes:
+      label: "Project Scope, Repo Link, or Best Contact (Email / Discord / Slack)"
+      placeholder: "Share your repository URL, timeline, or how to reach you directly (or email jaharoni@gmail.com)..."
+    validations:
+      required: true
