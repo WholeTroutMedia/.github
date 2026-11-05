@@ -1,0 +1,17 @@
+name: "✨ Feature Request / Adapter / Kit Upgrade"
+description: "Request a new feature, framework adapter, language binding, or downloadable kit upgrade."
+title: "[Feature Request]: "
+labels: ["enhancement", "user-requested"]
+body:
+  - type: textarea
+    id: feature
+    attributes:
+      label: "What feature, adapter, or upgrade would make this tool 10x more useful for your project?"
+      placeholder: "Describe the feature, workflow, or integration you need..."
+    validations:
+      required: true
+  - type: textarea
+    id: use_case
+    attributes:
+      label: "How are you using this in your software right now?"
+      placeholder: "Tell us about your use case so we can tailor the implementation..."
