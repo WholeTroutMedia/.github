@@ -1,24 +1,12 @@
-# WholeTroutMedia · Inception Engine Systems
+# WholeTroutMedia · Principal AI & Open-Source Systems Engineering
 
-Welcome to the official GitHub organization for **WholeTroutMedia** and **Inception Engine Systems** ([`https://inceptionengine.systems`](https://inceptionengine.systems)).
+Led by **Justin Aharoni** ([@jaharoni](https://github.com/jaharoni) · `justin.aharoni@inceptionengine.systems`), **WholeTroutMedia / Inception Engine Systems** resolves high-complexity concurrency, AI/MCP, GPU inference, and full-stack backlog issues across open-source and enterprise codebases with **100.0% Codecov patch coverage** and a **30-Day Post-Merge Regression Warranty**.
 
-## Human Provenance & Principal Contact
-Every open-source contribution, micro-application, fork, and security/bug patch published under `WholeTroutMedia` is personally reviewed, verified, and signed off by a human before release:
-
-- **Principal & Reviewer**: **Justin Aharoni** ([@jaharoni](https://github.com/jaharoni))
-- **Direct Engineering Contact**: `justin.aharoni@inceptionengine.systems` / `jaharoni@gmail.com`
-- **Systems & Research Portal**: [`https://inceptionengine.systems`](https://inceptionengine.systems)
-
----
-
-## Public Open-Source Pillars
-
-1. **[`WholeTroutMedia/creative-liberation-engine`](https://github.com/WholeTroutMedia/creative-liberation-engine)** (*Creative Liberation Engine*):
-   - An open creative foundation shaped by the imagination of the person using it—removing the friction between an idea and its realization so it reflects the vision and craft of the creator working with it.
-
-2. **[`WholeTroutMedia/inception-engine-applications`](https://github.com/WholeTroutMedia/inception-engine-applications)** (*Bi-Weekly Open-Source Micro-Application Drops*):
-   - Every two weeks we publish a self-contained, zero-dependency reference utility from our **12-Plugin Impossible Toolkit** (`000-cle-foundation-seed-os`, `001-seal-pdf-media-notary`, `002-extract-pbr-material-synth`, `003-smart-timeline-stem-ducker`) paired with `llms.txt`, `SKILL.md`, and `AGENT_BLUEPRINT.json` descriptors.
-   - View the live schedule in [`APPLICATION_LEDGER.md`](https://github.com/WholeTroutMedia/inception-engine-applications/blob/main/APPLICATION_LEDGER.md).
-
-3. **[`WholeTroutMedia/open-source-bounties`](https://github.com/WholeTroutMedia/open-source-bounties)** (*Daily Verified Upstream Fixes & Blinded Zero-Knowledge Commitments*):
-   - Our engineering ledger where upstream bug fixes are audited for competing PRs (`COMMUNITY_ETIQUETTE.md`), verified with standalone reproduction harnesses (`verify_fix.py` exiting `0`), held in blinded stealth staging in our private vault while awaiting human review, and attested via SHA-256 [`PROOF_OF_EXECUTION.md`](https://github.com/WholeTroutMedia/open-source-bounties/blob/main/commitments/WTM-SEAL-001/PROOF_OF_EXECUTION.md).
+### Quick Access & Live Proof
+- **[Open a 1-Click 48-Hour Diagnostic / Sprint Quote Request](https://github.com/WholeTroutMedia/open-source-bounties/issues/new?template=sprint_quote_request.yml)** *(4-Hour Response SLA)*
+- **[Main Engineering Ledger & Case Studies (`open-source-bounties`)](https://github.com/WholeTroutMedia/open-source-bounties)** (`6` Merged Production PRs · `11` In Final Review · `105` Pre-Solved Dossiers)
+- **[Unified 4-Tier Sprint Catalog (`$450` / `$1,500` / `$3,500` / `$4,500/mo`)](https://github.com/WholeTroutMedia/open-source-bounties/blob/main/ENTERPRISE_SPRINTS.md)** *(Upwork Escrow & 1-Click Stripe)*
+- **[White-Glove Client Service Charter & 30-Day Warranty](https://github.com/WholeTroutMedia/open-source-bounties/blob/main/CLIENT_SERVICE_CHARTER.md)**
+- **[Interactive Verification Lab (`oss-verification-sandbox`)](https://wholetroutmedia.github.io/oss-verification-sandbox/)**
+- **[4 Standalone Reference Micro-Apps (`inception-engine-applications`)](https://github.com/WholeTroutMedia/inception-engine-applications)**
+- **[Creative Liberation Engine Chassis (`creative-liberation-engine`)](https://github.com/WholeTroutMedia/creative-liberation-engine)**
