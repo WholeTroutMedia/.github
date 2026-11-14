@@ -14,22 +14,16 @@
 
 | | |
 | :--- | :--- |
-| 🔮 **[The Oracle](https://oracle.inceptionengine.systems)** | An MCP server that gives Claude and other AI assistants **69 ready-to-run skills** across video, voice, 3D, research, data and hardware, plus starter kits tuned to the machine you already have. |
 | 🎨 **[Creative Liberation Engine](https://github.com/WholeTroutMedia/creative-liberation-engine)** <br><sub>MIT licence</sub> | An open creative foundation that adapts to the person using it, so you can go from first sketch to finished media without fighting your tools. |
 | 🧰 **[Open-source micro-tools](https://github.com/WholeTroutMedia/open-source-micro-tools)** | Small, zero-dependency Python tools you can drop into any project, such as a cryptographic media notary and EXIF privacy scrubber, a PBR material synthesizer and an FCPXML audio-ducking compiler. |
 | 🧪 **[Verification sandbox](https://wholetroutmedia.github.io/oss-verification-sandbox/)** | A workbench that runs in your browser for checking UTF-8 stream framing, ASGI lifespans and pull-request readiness. Nothing to install. |
 | 🤝 **[Open-source contributions](https://github.com/WholeTroutMedia/open-source-bounties)** | Our public record of upstream fixes, bug reproducers and tools that help maintainers keep spam bots out. |
 
----
-
-### Try The Oracle in one command
-
-```bash
-claude mcp add --transport http the-oracle https://oracle.inceptionengine.systems/mcp \
-  --header "Authorization: Bearer YOUR_KEY"
-```
-
-Works with Claude Code and any MCP-compatible client. **[How to connect →](https://oracle.inceptionengine.systems/#connect)**
+<!--
+### Selected work
+Add finished, delivered projects here, starting with the Liberia work once it is finalized.
+Format: **Project name**: what was delivered and for whom, with a link to the live result.
+-->
 
 ---
 
