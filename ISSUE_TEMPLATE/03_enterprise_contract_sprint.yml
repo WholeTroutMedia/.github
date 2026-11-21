@@ -17,6 +17,6 @@ body:
     id: details
     attributes:
       label: "Project Scope, Repo Link, or Best Contact (Email / Discord / Slack)"
-      placeholder: "Share your repository URL, timeline, or how to reach you directly (or email jaharoni@gmail.com)..."
+      placeholder: "Share your repository URL, timeline, or how to reach you directly (or email contact@jaharoni.com)..."
     validations:
       required: true
