@@ -14,7 +14,7 @@ We approach every repository with grace and practical help: reading the room fir
 
 | Channel | Canonical Destination | Scope |
 | :--- | :--- | :--- |
-| **Creative Liberation Engine** | **[WholeTroutMedia/creative-liberation-engine](https://github.com/WholeTroutMedia/creative-liberation-engine)** | Canonical open creative foundation and standalone zero-dependency Python stdlib community gifts (`gifts/`) |
+| **Inception Engine Systems** | **[inceptionengine.systems](https://inceptionengine.systems)** | Independent creative technology, intelligence, cinema & spatial systems lab |
 | **Open-Source Engineering Ledger** | **[WholeTroutMedia/open-source-bounties](https://github.com/WholeTroutMedia/open-source-bounties)** | Merged upstream pull requests, root-cause case studies, public defense kits, and Maintainer Bot-Shield (`open-source-bot-shield.yml`) |
 | **Reference Micro-Tools & STIR+IESCS SDK** | **[WholeTroutMedia/open-source-micro-tools](https://github.com/WholeTroutMedia/open-source-micro-tools)** | Zero-dependency Python/CLI utilities, `STIR + IESCS` wire protocol SDK, and agent-native (`llms.txt` / MCP) blueprints |
 | **Interactive Verification Workbench** | **[wholetroutmedia.github.io/oss-verification-sandbox](https://wholetroutmedia.github.io/oss-verification-sandbox/)** | Client-side browser testbed for UTF-8 stream framing, ASGI lifespans, `STIR + IESCS`, and pull-request audits |
