@@ -1,22 +1,43 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/WholeTroutMedia/.github/main/assets/wholetrout-executive-masthead.svg" alt="WholeTroutMedia Open-Source Systems and Creative Engineering" width="100%" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WholeTroutMedia/.github/main/assets/profile-banner-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WholeTroutMedia/.github/main/assets/profile-banner-light.svg" />
+  <img src="https://raw.githubusercontent.com/WholeTroutMedia/.github/main/assets/profile-banner-dark.svg" alt="Inception Engine Systems by WholeTroutMedia: intelligence, cinema and spatial systems" width="100%" />
+</picture>
 
-# WholeTroutMedia · Open-Source Systems & Creative Engineering
-
-Led by **[Justin Aharoni (`@jaharoni`)](https://github.com/jaharoni)**, **WholeTroutMedia** builds open-source verification utilities, zero-dependency creative and spatial tools, `STIR + IESCS` agent wire protocols, Model Context Protocol (MCP) schemas, and tested upstream open-source contributions.
-
-We approach every repository with grace and practical help: reading the room first, swatting bugs and automated spam bots, and always leaving the codebase cleaner and better tested than we found it.
+**WholeTroutMedia is the open-source home of [Inception Engine Systems](https://inceptionengine.systems)**, an independent creative technology studio led by [Justin Aharoni](https://github.com/jaharoni). We build tools for AI, media and spatial work, and we give the building blocks away.
 
 ---
 
-### Open-Source Repositories & Verification Channels
+### Free to use
 
-| Channel | Canonical Destination | Scope |
-| :--- | :--- | :--- |
-| **Inception Engine Systems** | **[inceptionengine.systems](https://inceptionengine.systems)** | Independent creative technology, intelligence, cinema & spatial systems lab |
-| **Open-Source Engineering Ledger** | **[WholeTroutMedia/open-source-bounties](https://github.com/WholeTroutMedia/open-source-bounties)** | Merged upstream pull requests, root-cause case studies, public defense kits, and Maintainer Bot-Shield (`open-source-bot-shield.yml`) |
-| **Reference Micro-Tools & STIR+IESCS SDK** | **[WholeTroutMedia/open-source-micro-tools](https://github.com/WholeTroutMedia/open-source-micro-tools)** | Zero-dependency Python/CLI utilities, `STIR + IESCS` wire protocol SDK, and agent-native (`llms.txt` / MCP) blueprints |
-| **Interactive Verification Workbench** | **[wholetroutmedia.github.io/oss-verification-sandbox](https://wholetroutmedia.github.io/oss-verification-sandbox/)** | Client-side browser testbed for UTF-8 stream framing, ASGI lifespans, `STIR + IESCS`, and pull-request audits |
-| **Hugging Face Hub & Spaces** | **[huggingface.co/jaharoni](https://huggingface.co/jaharoni)** | Open-source verification spaces and engineering datasets |
-| **Website & Direct Contact** | **[justinaharoni.com](https://justinaharoni.com)** · **[`contact@jaharoni.com`](mailto:contact@jaharoni.com)** | Architecture, photography, essays, and open-source collaboration ([Contact](https://justinaharoni.com/contact)) |
+- 🛡️ **[Maintainer Bot-Shield](https://github.com/WholeTroutMedia/open-source-bounties/blob/main/.github/workflows/open-source-bot-shield.yml)**: drop one workflow file into your repo and it closes pull requests from known automated spam accounts.
+- 🧰 **[Open-source micro-tools](https://github.com/WholeTroutMedia/open-source-micro-tools)**: small, zero-dependency Python tools you can copy into any project (`MIT`).
+- 🧪 **[Verification sandbox](https://wholetroutmedia.github.io/oss-verification-sandbox/)**: check your code in the browser before you open a pull request. Nothing to install (`MIT`).
+- ✍️ **[Field notes on Medium](https://medium.com/@jaharoni)**: write-ups of real fixes, written so the next person doesn't have to start from scratch.
+
+---
+
+### What we build
+
+| | |
+| :--- | :--- |
+| ⚡ **[Solana Validator Block Ordering](https://github.com/jaharoni/solana-validator-block-ordering)** <br><sub>MIT license</sub> | Reproducible post-Alpenglow Mainnet measurement suite and raw Epoch 1076 dataset examining how Solana validators order transactions inside blocks. |
+| 🤝 **[Open-source contributions](https://github.com/WholeTroutMedia/open-source-bounties)** <br><sub>MIT license</sub> | Our public record of fixes, verification kits, and bug reproducers sent to other open-source projects. |
+
+<!--
+### Selected work
+Add finished, delivered projects here, starting with the Liberia work once it is finalized.
+Format: **Project name**: what was delivered and for whom, with a link to the live result.
+-->
+
+---
+
+### Get in touch
+
+Stuck using one of our tools? **[Ask for help](https://github.com/WholeTroutMedia/.github/issues/new?template=01_implementation_help.yml)**. Have an idea? **[Suggest it](https://github.com/WholeTroutMedia/.github/issues/new?template=02_feature_request.yml)**.
+
+<sub>Building something bigger? [Tell us about it](https://github.com/WholeTroutMedia/.github/issues/new?template=03_enterprise_contract_sprint.yml) or email [contact@jaharoni.com](mailto:contact@jaharoni.com).</sub>
+
+---
+
+<sub>Inception Engine Systems · WholeTroutMedia · New York &nbsp;·&nbsp; [inceptionengine.systems](https://inceptionengine.systems) · [justinaharoni.com](https://justinaharoni.com) · [Medium](https://medium.com/@jaharoni) · [Hugging Face](https://huggingface.co/jaharoni) · [@jaharoni](https://github.com/jaharoni)</sub>
